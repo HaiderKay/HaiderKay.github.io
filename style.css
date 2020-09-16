@@ -34,8 +34,8 @@ section{
 }
 
 .banner h2{
-    font-size: 5.5em;
-    color: #C91818;
+    font-size: 5em;
+    color: gold;
     text-shadow: 1px 1px 1px #222;
     font-weight: 500;
     line-height: 1.5em;
@@ -433,9 +433,7 @@ header ul li a{
         padding: 150px 20px 100px;
         text-align: center;
     }
-    .banner h2{
-      font-size: 4em;
-  }
+
     .banner h3{
         color: #fff;
     }
